@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello everyone, this is Cemil.<br><br>Location: Berlin 🇩🇪 <br><br> 🔭 Currently working at Delivery Hero as a Frontend Engineer.<br><br>🌱 Also interested in other fields like Backend, Mobile Technologies, etc.<br><br>🤝 Open for Freelance Projects in fields of Web/Mobile Development
 
 
